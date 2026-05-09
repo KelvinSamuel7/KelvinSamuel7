@@ -17,3 +17,12 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=KelvinSamuel7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KelvinSamuel7/KelvinSamuel7/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KelvinSamuel7/KelvinSamuel7/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KelvinSamuel7/KelvinSamuel7/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
